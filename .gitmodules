@@ -1,0 +1,3 @@
+[submodule "modules/CS_Spatial_Modules"]
+	path = modules/CS_Spatial_Modules
+	url = https://github.com/CityScope/CS_Spatial_Modules.git
