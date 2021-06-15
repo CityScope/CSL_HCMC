@@ -1,2 +1,4 @@
 **/.DS_Store
-
+*_dev-checkpoint.ipynb
+*_dev.ipynb
+*/cache/*
