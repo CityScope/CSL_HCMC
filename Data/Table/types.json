@@ -1,0 +1,163 @@
+{
+  "Office": {
+    "LBCS": [
+      {
+        "proportion": 1,
+        "use": {
+          "2310": 1
+        }
+      }
+    ],
+    "NAICS": [
+      {
+        "proportion": 1,
+        "use": {
+          "5182": 0.25,
+          "5239": 0.25,
+          "5241": 0.25,
+          "5400": 0.25
+        }
+      }
+    ],
+    "color": [
+      227,
+      26,
+      28,
+      180
+    ],
+    "height": [
+      10
+    ],
+    "sqm_pperson": 20
+  },
+  "Park": {
+    "LBCS": [
+      {
+        "proportion": 1,
+        "use": {
+          "7240": 1
+        }
+      }
+    ],
+    "NAICS": null,
+    "color": [
+      178,
+      223,
+      138,
+      180
+    ],
+    "height": [
+      1
+    ],
+    "sqm_pperson": 1
+  },
+  "Residential Low Income": {
+  	"res_income": {"1": 1},
+    "LBCS": [
+      {
+        "proportion": 1,
+        "use": {
+          "1100": 1
+        }
+      }
+    ],
+    "NAICS": null,
+    "color": [
+      255,
+      247,
+      188,
+      180
+    ],
+    "height": [
+      4
+    ],
+    "sqm_pperson": 50
+  },
+  "Residential Med Income": {
+  	"res_income": {"2": 0.5, "3": 0.5},
+    "LBCS": [
+      {
+        "proportion": 1,
+        "use": {
+          "1100": 1
+        }
+      }
+    ],
+    "NAICS": null,
+    "color": [
+      254,
+      227,
+      145,
+      180
+    ],
+    "height": [
+      4
+    ],
+    "sqm_pperson": 90
+  },
+  "Residential High Income": {
+  	"res_income": {"4": 1},
+    "LBCS": [
+      {
+        "proportion": 1,
+        "use": {
+          "1100": 1
+        }
+      }
+    ],
+    "NAICS": null,
+    "color": [
+      254,
+      196,
+      79,
+      180
+    ],
+    "height": [
+      4
+    ],
+    "sqm_pperson": 130
+  },
+  "Retail": {
+    "LBCS": [
+      {
+        "proportion": 1,
+        "use": {
+          "2100": 0.6,
+          "2200": 0.4
+        }
+      }
+    ],
+    "NAICS": [
+      {
+        "proportion": 1,
+        "use": {
+          "4451": 0.2,
+          "4453": 0.2,
+          "7224": 0.3,
+          "7225": 0.3
+        }
+      }
+    ],
+    "color": [
+      251,
+      154,
+      153,
+      180
+    ],
+    "height": [
+      4
+    ],
+    "sqm_pperson": 150
+  },
+  "None": {
+    "LBCS": null,
+    "NAICS": null,
+    "color": [
+      150,
+      150,
+      150,
+      150
+    ],
+    "height": 0
+  }
+}
