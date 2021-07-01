@@ -1,0 +1,198 @@
+ID,Type Code,Landuse type name,ARC - Simplified function,ARC suggested land use grouping
+1,CCDVO,Administrative,Administrative,"10. 
+Administrative, Public facility"
+2,CCDVO,Administrative - office,Administrative,"10. 
+Administrative, Public facility"
+3,CCDVO,Administrative facility,Administrative,"10. 
+Administrative, Public facility"
+4,CCDVO,Adninistrative,Administrative,"10. 
+Administrative, Public facility"
+5,CXCL,Buffer greenery,Greenery,"5.
+Open space, greenery and park"
+6,HTKT,Bus (station),Infrastructure,"9. 
+Transportation, Infrastructure"
+7,CXCL,Canal - side greenery,Greenery,"5.
+Open space, greenery and park"
+8,CXCL,Cau Phao canal side greenery,Greenery,"5.
+Open space, greenery and park"
+9,CCDT,City public facility,Public facility,"10. 
+Administrative, Public facility"
+10,CCDVO,Commercial,Commercial - service,"7.
+Commercial, service, office"
+11,CCDVO,Commercial/ service,Commercial - service,"7.
+Commercial, service, office"
+12,HH,Complex,Mixed - use,"8.
+Mix-used"
+13,CCDVO,Complex - hospitality,Commercial - service,"7.
+Commercial, service, office"
+14,NNO,Complex - primarily residential,Residential,"1. 
+Residential"
+15,NNO,Complex - residential,Residential,"1. 
+Residential"
+16,NNO,Complex apartment building land,Residential,"1. 
+Residential"
+17,CCDT,Complex land - cultural/ recreational,Recreational,"4. 
+Recreational, sport, cultural"
+18,CCDT,Complex land - hotel/ cultural/ recreational,Recreational,"4. 
+Recreational, sport, cultural"
+19,CCDVO,Cultural,Cultural,"4. 
+Recreational, sport, cultural"
+20,CCDVO,Cultural - club,Cultural,"4. 
+Recreational, sport, cultural"
+21,GD1,"Education (elementary school, junior school, high school)",Education,"2. 
+Educational"
+22,NCDT,Education (university),Education,"2. 
+Educational"
+23,NCDT,Education and research centre,Education,"2. 
+Educational"
+24,GD1,Educational,Education,"2. 
+Educational"
+25,GD1,Educational (kindergarten),Education,"2. 
+Educational"
+26,TGDT,Existing religious,Religious,6. Religious
+27,NNO,Existing and new residential,Residential,"1. 
+Residential"
+28,CCDVO,Existing and renovated public facility,Public facility,"10. 
+Administrative, Public facility"
+29,NNO,Existing and renovated residential,Residential,"1. 
+Residential"
+30,GD1,Existing educational,Education,"2. 
+Educational"
+31,KTBB,existing industrial land,Industrial,"14. 
+Industrial"
+32,CCDVO,Existing market,Commercial - service,"7.
+Commercial, service, office"
+33,CCDVO,Existing medical,Healthcare,"3. 
+Healthcare"
+34,CCDVO,Existing public facility,Public facility,"10. 
+Administrative, Public facility"
+35,NNO,Existing residential,Residential,"1. 
+Residential"
+36,CCDVO,Existing service facility,Commercial - service,"7.
+Commercial, service, office"
+37,NNO,"Existing, renovated and new residential",Residential,"1. 
+Residential"
+38,GD1,Expected school,Education,"2. 
+Educational"
+39,HTKT,Ferry parking lot,Infrastructure,"9. 
+Transportation, Infrastructure"
+40,CXCD,Ferry square,Open space,"5.
+Open space, greenery and park"
+41,HTKT,Ferry wharf,Infrastructure,"9. 
+Transportation, Infrastructure"
+42,CXDT,Greenary - park land,Greenery,"5.
+Open space, greenery and park"
+43,CXDVO,Greenary land in residential unit,Greenery,"5.
+Open space, greenery and park"
+44,CXCL,Greenary park land - landscape,Greenery,"5.
+Open space, greenery and park"
+45,CCDVO,Hospital - medical facility,Healthcare,"3. 
+Healthcare"
+46,CQCT,Landmark office tall building,Office,"7.
+Commercial, service, office"
+47,CXCL,Landscape greenary,Greenery,"5.
+Open space, greenery and park"
+48,CXDVO,Landscape greenary - park,Greenery,"5.
+Open space, greenery and park"
+49,NNO,Low - BCR residential,Residential,"1. 
+Residential"
+50,NNO,Low - rise apartment,Residential,"1. 
+Residential"
+51,CCDVO,Medical,Healthcare,"3. 
+Healthcare"
+52,CCDVO,Medical (expected),Healthcare,"3. 
+Healthcare"
+53,ANQP,Militaries,National defense - security,"11. 
+National defense - security"
+54,HH,Mixed - use,Mixed - use,"8.
+Mix-used"
+55,NNO,Mixed - use residential,Residential,"1. 
+Residential"
+56,HH,Mixed - use residential until 2020,Residential,"1. 
+Residential"
+57,NNO,Multi-functional residential,Residential,"1. 
+Residential"
+58,CCDVO,Multi-purpose sports stadium,Recreational,"4. 
+Recreational, sport, cultural"
+59,CCDVO,Multi-function commercial,Commercial - service,"7.
+Commercial, service, office"
+60,ANQP,National defense - security,National defense - security,"11. 
+National defense - security"
+61,CCDVO,New city service facility,Commercial - service,"7.
+Commercial, service, office"
+62,NNO,New high - rise residential,Residential,"1. 
+Residential"
+63,NNO,New residential,Residential,"1. 
+Residential"
+64,NCDT,New school,Education,"2. 
+Educational"
+65,CQCT,Office,Office,"7.
+Commercial, service, office"
+66,CQCT,Office - production and trading,Office,"7.
+Commercial, service, office"
+67,CXCL,Open space alongside pavement,Open space,"5.
+Open space, greenery and park"
+68,CXDVO,Park greenery,Park,"5.
+Open space, greenery and park"
+69,CXDVO,Parkland - sport,Park,"5.
+Open space, greenery and park"
+70,CXCD,Pedestrian road,Open space,"5.
+Open space, greenery and park"
+71,KTBB,Production land - warehouse,Industrial,"14. 
+Industrial"
+72,CCDVO,Public facility,Public facility,"10. 
+Administrative, Public facility"
+73,CCDVO,Public facility in residential unit,Public facility,"10. 
+Administrative, Public facility"
+74,CXDVO,Public greenery,Greenery,"5.
+Open space, greenery and park"
+75,CXDVO,Public park,Park,"5.
+Open space, greenery and park"
+76,TGDT,Religious,Religious,6. Religious
+77,TGDT,Religious - relics,Religious,6. Religious
+78,NNO,Renovated residential,Residential,"1. 
+Residential"
+79,NNO,Residential,Residential,"1. 
+Residential"
+80,CCDT,Resort/ outdoor entertainment,Recreational,"4. 
+Recreational, sport, cultural"
+81,NNO,Rise residential,Residential,"1. 
+Residential"
+82,GD,School,Education,"2. 
+Educational"
+83,CCDVO,Service - commercial,Commercial - service,"7.
+Commercial, service, office"
+84,GD1,Short-term planned elementary school,Education,"2. 
+Educational"
+85,NNO,Short-term planned residential,Residential,"1. 
+Residential"
+86,CXDVO,Short-term planned urban greenary land,Greenery,"5.
+Open space, greenery and park"
+87,CXDVO,Sport - greenery,Greenery,"5.
+Open space, greenery and park"
+88,CXDT,Sport - greenery park,Park,"5.
+Open space, greenery and park"
+89,CXCD,Square,Open space,"5.
+Open space, greenery and park"
+90,CXCD,Square ground,Open space,"5.
+Open space, greenery and park"
+91,HTKT,Technical infrastructure,Infrastructure,"9. 
+Transportation, Infrastructure"
+92,CXCD,Thematic greenery,Greenery,"5.
+Open space, greenery and park"
+93,CXCD,Thematic park,Park,"5.
+Open space, greenery and park"
+94,CXCD,Thematic park (amusement park),Park,"5.
+Open space, greenery and park"
+95,DGT,Transportation,Transportation,"9. 
+Transportation, Infrastructure"
+96,CXCL,Vegetative buffer,Greenery,"5.
+Open space, greenery and park"
+97,NNO,Villass,Residential,"1. 
+Residential"
+98,MN,Water surface,Water,"12. 
+Water"
+99,CXCL,Waterside vegetative buffer,Greenery,"5.
+Open space, greenery and park"
+100,DK,Wetland,Wetland,"13. 
+Wetland"

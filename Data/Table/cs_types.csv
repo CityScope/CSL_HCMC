@@ -1,0 +1,27 @@
+Group:,LBCS,NAICS,sqm x person,Color
+"1. 
+Residential",1000,null,6.97,"RGB(255,255,0) RGBHex(FF00FF)"
+"7.
+Commercial, service, office",2000,520000,-,"RGB(255,0,0) RGBHex(FF0000)"
+"10. 
+Administrative, Public facility",2300,920000,0.36,"RGB(255,6,0) RGBHex(ff3c00)"
+"14. 
+Industrial",3000,320000 + 330000,0.03,"RGB(160,32,240) RGBHex(A0F020)"
+"2. 
+Educational",4100,610000,0.95,"RGB(0,0,255) RGBHex(00FF00)"
+"3. 
+Healthcare",4500,620000,-,"RGB(0,70,255) RGBHex(0046ff)"
+"11. 
+National defense - security",4700,480000,0.02,"RGB(70,0,255) RGBHex(4600ff)"
+"9. 
+Transportation, Infrastructure",5000,480000,4,"RGB(190,190,190) RGBHex(BEBEBE)"
+6. Religious,6600,710000,0.18,"RGB(47,79,79) RGBHex(2F4F4F)"
+"4. 
+Recreational, sport, cultural",7100,710000,0.09,"RGB(144,238,144) RGBHex(9090EE)"
+"5.
+Open space, greenery and park",7600,712190,2.18,"RGB(0,238,0) RGBHex(00ee00)"
+12. River (Water),9310,712190,3.02,"RGB(34,139,34) RGBHex(22228B)"
+"13. 
+Wetland",9390,712190,0.13,"RGB(34,100,34) RGBHex(226422)"
+"8.
+Mix-used",Combo,null,MIX,TBD
