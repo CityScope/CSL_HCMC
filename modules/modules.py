@@ -42,7 +42,6 @@ total_sampling_factor=frac*0.01 # survey itself was already a 1% sample
 
 table_name='hcmc_rd'
 types=json.load(open('../Data/Table/types.json'))
-properties=geogrid_tools.init_geogrid(table_name, types=types, interactive_zone=None)
 
 get_url='https://cityio.media.mit.edu/api/table/'+table_name+'/'
 with urllib.request.urlopen(get_url+'/GEOGRID/') as url:
@@ -55,7 +54,6 @@ geogrid
 
 H=Handler(table_name=table_name)
 H.reset_geogrid_data()
-
 
 # Mobility system and Mode Choice Model
 external_hw_tags=["motorway","motorway_link",
