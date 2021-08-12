@@ -1,0 +1,19 @@
+﻿No.,CSLLandtype,LBCS,LBCS_proportion,NAICS,NAICS_proportions,"Area per person (employee)
+(sqm/person)","Area per person (resident/customer)
+(sqm/person)"
+1,Residential - lowrise,"1100, 1110, 1210, 1220","0.5, 0.1, 0.2, 0.2",Null,Null,30,30
+2,Residentail - highrise,1120,1,Null,Null,1200,9
+3,"Commercial, Service",2500 + 2200 + 6500,"0.1, 0.2, 0.5, 0.2",520000,"0.1, 0.2, 0.5, 0.2","7, 6, 5, 6",9
+3,"Commercial, Service","2100, 2200, 2300, 6500","0.1, 0.2, 0.5, 0.2","445110, 722110, 661114, 721110","0.1, 0.2, 0.5, 0.2","7, 6, 5, 13","7, 1, 0, 28"
+4,"Administrative, Public facility",2300,1,920000,1,10,0
+5,Industrial,3000,1,480000,1,30,0
+6,Educational,"4100, 2500","0.95, 0.05","610000, 722500","0.95, 0.05","96, 6","8, 1.5"
+7,Healthcare,"6500, 2500","0.95, 0.05","620000, 722500","0.95, 0.05","58, 6","70, 1.5"
+8,"National defense, Security",4700,1,480000,1,46.5,0
+9,"Transportation, Infrastructure",5000,1,480000,1,0,0
+10,Religious,6600,1,710000,1,18,1.8
+11,"Recreational, Sport, Cultural","2500, 5000, 6500, 2540","0.3, 0.3, 0.3, 0.1","722500, 710000, 722500, 620000","0.3, 0.3, 0.3, 0.1",6,"3, 1.5, 0.6, 0.6"
+12,"Open space, Greenery, Park",7600,1,712190,1,1800,2.18
+13,Water,9310,1,712190,1,0,0
+14,Wetland,9390,1,712190,1,0,0
+15,Mixed-use,"1120, 2100, 2300","0.7, 0.15, 0.15","null, 445110, 551114","0.7, 0.15, 0.15","1200, 7, 5","9, 1, 0"
