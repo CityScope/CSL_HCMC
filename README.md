@@ -26,3 +26,8 @@ The updated version: 3 scenarios: The evaluation will be conducted in the same y
 | [Intermediate Output](https://github.com/CityScope/CSL_HCMC/tree/main/outputs) | A collection of outputs from data analysis. They are inputs for modules calculations |
 | [Module](https://github.com/CityScope/CSL_HCMC/tree/main/modules) | This is where all indicators are calculated:<br /> • Gama Model<br /> • Spatial Model<br /> |
 | [The Output](https://github.com/CityScope/CSL_HCMC/tree/main/scenarios) | • A saving text files for visualization in front end<br />• Code for static analysis of 3 scenarios<br />• Code to convert Shapefile (Landuse) to Geogrid |
+
+---
+### Relevant sources:
+- [Correlation Of Data, Formulation And Indicators](https://docs.google.com/document/d/1tsHzmQ5fNQzocgGUvi0c_O1tr5xIY8sZWEcB5sPe0T0/edit): an brief explanatory documents.  This describes data inputs, meaning of indicators and formulas.
+- [Landtype Details and Discussion](https://docs.google.com/spreadsheets/d/19D1czN65F05iamg5kvdG9rJ46cZPvfrojBQ89XqUGrI/edit#gid=523130602): Due to structure of City Scope, orginal (local) Landtype need a handful of modifications (adding density of residential, employment; group by Landtype into fewer; Getting correspoding LBCS, NAICS; etc. )
